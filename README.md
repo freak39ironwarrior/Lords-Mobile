@@ -235,4 +235,4 @@ Lords Mobile is available as a full free version for Windows, including all feat
 Are you ready to become the most powerful lord? Download Lords Mobile now and start your adventure today!
 
 ---
-**Last updated:** 2026-10-17 19:05:01 UTC
+**Last updated:** 2026-10-17 22:00:35 UTC
